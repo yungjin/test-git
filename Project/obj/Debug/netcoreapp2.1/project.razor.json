@@ -1,6 +1,14 @@
 {
-  "ProjectFilePath": "c:\\Test_cyj\\test-git\\Project\\Test.csproj",
+  "ProjectFilePath": "c:\\Test\\test-git\\Project\\Test.csproj",
   "TargetFramework": "netcoreapp2.1",
   "TagHelpers": [],
-  "Configuration": null
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  }
 }

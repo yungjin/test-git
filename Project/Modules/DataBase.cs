@@ -10,7 +10,7 @@ namespace Test.Modules
 {
     public class DataBase
     {
-        private const string conStr = "server=192.168.3.?;user=root;password=test;database=test;port=3306";
+        private const string conStr = "server=192.168.3.109;user=root;password=test;database=test;port=3306";
         private Hashtable resultMap;
         private ArrayList resultList;
 

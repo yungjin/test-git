@@ -11946,11 +11946,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Test_cyj\\test-git\\Project\\Test.csproj",
+      "projectUniqueName": "C:\\Test\\test-git\\Project\\Test.csproj",
       "projectName": "Test",
-      "projectPath": "C:\\Test_cyj\\test-git\\Project\\Test.csproj",
+      "projectPath": "C:\\Test\\test-git\\Project\\Test.csproj",
       "packagesPath": "C:\\Users\\gd13\\.nuget\\packages\\",
-      "outputPath": "C:\\Test_cyj\\test-git\\Project\\obj\\",
+      "outputPath": "C:\\Test\\test-git\\Project\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -39,3 +39,17 @@ C:\Test_cyj\test-git\Project\obj\Debug\netcoreapp2.1\Test.AssemblyInfo.cs
 C:\Test_cyj\test-git\Project\obj\Debug\netcoreapp2.1\Test.RazorTargetAssemblyInfo.cache
 C:\Test_cyj\test-git\Project\obj\Debug\netcoreapp2.1\Test.dll
 C:\Test_cyj\test-git\Project\obj\Debug\netcoreapp2.1\Test.pdb
+C:\Test\test-git\Project\bin\Debug\netcoreapp2.1\Test.deps.json
+C:\Test\test-git\Project\bin\Debug\netcoreapp2.1\Test.runtimeconfig.json
+C:\Test\test-git\Project\bin\Debug\netcoreapp2.1\Test.runtimeconfig.dev.json
+C:\Test\test-git\Project\bin\Debug\netcoreapp2.1\Test.dll
+C:\Test\test-git\Project\bin\Debug\netcoreapp2.1\Test.pdb
+C:\Test\test-git\Project\obj\Debug\netcoreapp2.1\Test.csprojAssemblyReference.cache
+C:\Test\test-git\Project\obj\Debug\netcoreapp2.1\Test.csproj.CoreCompileInputs.cache
+C:\Test\test-git\Project\obj\Debug\netcoreapp2.1\Test.RazorAssemblyInfo.cache
+C:\Test\test-git\Project\obj\Debug\netcoreapp2.1\Test.RazorAssemblyInfo.cs
+C:\Test\test-git\Project\obj\Debug\netcoreapp2.1\Test.AssemblyInfoInputs.cache
+C:\Test\test-git\Project\obj\Debug\netcoreapp2.1\Test.AssemblyInfo.cs
+C:\Test\test-git\Project\obj\Debug\netcoreapp2.1\Test.RazorTargetAssemblyInfo.cache
+C:\Test\test-git\Project\obj\Debug\netcoreapp2.1\Test.dll
+C:\Test\test-git\Project\obj\Debug\netcoreapp2.1\Test.pdb
